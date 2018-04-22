@@ -1,18 +1,13 @@
 ---
 layout: page
-title: About
+title: 了解我
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+     
+#### 写点东西
+工作几年，与人交流的能力提升不少，在写作能力上一致有所欠缺，总是有很多想法，却不知道如何记录下来。偶然一次机会看到一位小我4届师弟的博客，深受震撼。每篇博客的内容虽然不多，可也都是花了心思的，言语间充满了对生活及工作的热情。开这个博客，不期望有很多的人来围观，只希望能够一点点记录自己的工作和生活，通过文字来发现生活及工作的美好。
 
 
-[jekyll-organization]: https://github.com/jekyll
+#### 我是谁
+某公司CTO，之前在某天天宣传人均奖金的通信设备公司工作。工作一段时间，自觉无趣，遂和几位同学一起创业，目前从事移动操作系统研发工作。生活中最喜欢开着车，带着老婆游山玩水。
